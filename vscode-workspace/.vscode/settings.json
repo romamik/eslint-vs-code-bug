@@ -1,0 +1,4 @@
+{
+	"eslint.debug": true,
+	"eslint.trace.server": "verbose"
+}
