@@ -15,3 +15,6 @@ To reproduce issue:
 
 5. Run `npx eslint "**/*.ts"` from the `vscode-workspace` folder.
 	* It gives correct output for files in both `src-not-symlinked` and `src-symlinked` folders.
+
+6. Uncomment line `"eslint.nodePath": "node_modules"` in `setting.json`.
+	* ESLint now works fine in `src-symlinked` folder

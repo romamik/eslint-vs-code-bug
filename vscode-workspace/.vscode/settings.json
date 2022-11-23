@@ -1,4 +1,5 @@
 {
 	"eslint.debug": true,
-	"eslint.trace.server": "verbose"
+	"eslint.trace.server": "verbose",
+	//"eslint.nodePath": "node_modules" //uncomment this to workaround the issue
 }
