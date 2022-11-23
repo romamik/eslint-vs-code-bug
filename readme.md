@@ -1,4 +1,7 @@
-To reproduce issue:
+Reproduction for https://github.com/microsoft/vscode-eslint/issues/1351
+
+To reproduce the issue:
+
 1. Open `vscode-workspace` folder in VS Code.
 
 2. Run `npm install` in that folder.
